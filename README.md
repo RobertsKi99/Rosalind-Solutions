@@ -1,0 +1,1 @@
+This repository contains solutions to various bioinformatics problems. The problems are derived from the intersection of biology and computer science, especially in the realm of genetic sequence analysis. Python functions are utilized to solve these problems.
